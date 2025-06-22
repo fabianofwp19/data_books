@@ -29,7 +29,7 @@ O script espera um arquivo `.csv` com ao menos as seguintes colunas:
 
 ---
 
-## ▶Como Executar
+## Como Executar
 
 1. Clone o repositório:
 
