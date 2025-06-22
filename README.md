@@ -1,10 +1,10 @@
-# 📚 Análise Exploratória de Dados de Livros com Python
+# Análise Exploratória de Dados de Livros com Python
 
 Este projeto realiza uma análise exploratória de um dataset de livros utilizando **Pandas**, **Seaborn**, **Matplotlib** e **SciPy**. A análise inclui geração de histogramas baseados na Regra de Sturges, filtragem por avaliações (rating), estatísticas por categoria e exportação de resultados.
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - 📊 Geração de histograma de preços com a Regra de Sturges
 - 🔍 Identificação de intervalo de menor frequência
@@ -16,7 +16,7 @@ Este projeto realiza uma análise exploratória de um dataset de livros utilizan
 
 ---
 
-## 🧾 Estrutura do Dataset
+## Estrutura do Dataset
 
 O script espera um arquivo `.csv` com ao menos as seguintes colunas:
 
@@ -29,7 +29,7 @@ O script espera um arquivo `.csv` com ao menos as seguintes colunas:
 
 ---
 
-## ▶️ Como Executar
+## ▶Como Executar
 
 1. Clone o repositório:
 
